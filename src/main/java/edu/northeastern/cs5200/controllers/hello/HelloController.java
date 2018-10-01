@@ -12,6 +12,7 @@ public class HelloController {
     @Autowired
     HelloRepository helloRepository;
 
+
     @RequestMapping("/api/hello/string")
     public String sayHello() {
         return "Hello Saurin Shah!";
