@@ -5,8 +5,7 @@
 
     <groupId>edu.northeastern.cs5200</groupId>
     <artifactId>cs5200-fall18-shah-1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <version>1.0</version>
 
     <name>cs5200-fall18-shah-1</name>
     <description>Demo project for Spring Boot</description>
